@@ -1,0 +1,22 @@
+body {
+    background-color: powderblue;
+  }
+  h1 {
+    color: blue;
+  }
+  p {
+    color: red;
+  }
+
+  .A1 {
+    background-color: chocolate;
+    transform: rotate(0deg);
+  }
+ .A2 {
+    background-color: chocolate;
+    transform: rotate(90deg); 
+}
+.A3 {
+    background-color: chocolate;
+    transform: rotate(90deg); 
+}
