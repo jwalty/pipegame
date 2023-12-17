@@ -20,3 +20,6 @@ body {
     background-color: chocolate;
     transform: rotate(90deg); 
 }
+img {
+  transition: all 0.75s 0.25s;
+}
